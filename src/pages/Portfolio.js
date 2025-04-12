@@ -29,7 +29,7 @@ function Portfolio() {
     {
       title: 'Portfolio Website',
       description: 'Designed and developed this portfolio site to showcase my skills and projects, learning React along the way.',
-      link: 'https://github.com/99alive/WP.git',
+      link: 'https://github.com/99alive/WP',
       tech: ['React', 'CSS', 'JavaScript'],
     },
     {
