@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WP/static/css/main.6506f792.css",
+    "main.js": "/WP/static/js/main.b051c243.js",
+    "static/media/InShot_20230712_150339814.jpg": "/WP/static/media/InShot_20230712_150339814.f650304505c7ad12cef7.jpg",
+    "index.html": "/WP/index.html",
+    "main.6506f792.css.map": "/WP/static/css/main.6506f792.css.map",
+    "main.b051c243.js.map": "/WP/static/js/main.b051c243.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6506f792.css",
+    "static/js/main.b051c243.js"
+  ]
+}
